@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sls_configs>
+  <action id="a_5575a82ed73d9">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ed848e">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ed9293">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ed9ef3">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82edab58">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82edb958">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82edc491">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82edcfcd">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ede4c5">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82edf28e">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ee011d">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ee10cb">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ee1e05">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ee2bbd">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ee3b6d">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ee48ab">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ee559f">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ee64dd">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ee72cc">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ee8255">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ee900d">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ee9e3b">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82eeacde">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82eebdbd">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82eecbf4">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82eed8ff">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82eee6e0">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82eefefa">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ef0cdf">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ef1a3e">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ef289c">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82ef365d">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f0049a">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f0123d">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f0202f">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f02e01">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f03b6e">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f04b65">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f0590f">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f067c7">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f07621">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f08598">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f09311">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f0a0e2">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f0af13">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f0bc68">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f0ccd9">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f0da70">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f0e974">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f0f906">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f1092b">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f116c0">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f12487">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f13265">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f141be">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f153f6">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f162ac">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f1726f">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f180a5">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f1900d">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f19d5c">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f1ab4c">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f1b941">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f1c7dd">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f1d933">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f1e726">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f1f4d1">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f202ad">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f21357">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f2212c">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f22f53">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f23d47">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f24cb6">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f25d7c">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f26c59">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f27b01">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f289f4">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f29a05">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f2a79b">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f2b695">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f2c43a">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f2d65b">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f2e55a">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f2f2f0">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f30095">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f30e71">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f31da3">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f32b40">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f33ab0">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f3487a">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f355ec">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f36401">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f37190">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f37f11">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f38cf2">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f39ba6">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f3a8ea">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f3b752">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f3c514">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f3d260">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f3dff8">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f3ee6b">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f3fcc6">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f40bbe">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f41b72">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f428ef">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f43684">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f4442f">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f453e6">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f4619d">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f4701f">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f47f31">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f48c79">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f49a2d">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f4ae9f">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f4ba28">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f4c643">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f4d2d2">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f4df0d">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f4ead4">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a82f4f66e">
+    <title lang="en"><![CDATA[]]></title>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="c_5575a87c97735"/>
+  <action id="c_5575a87c977d1"/>
+  <action id="a_5575a87c97833">
+    <title lang="fr"><![CDATA[Welcome]]></title>
+    <description lang="fr"><![CDATA[]]></description>
+    <keywords lang="fr"><![CDATA[]]></keywords>
+    <robots><![CDATA[index, follow]]></robots>
+  </action>
+  <action id="a_5575a87c9798b">
+    <title lang="fr"><![CDATA[Sorry, Page cannot be found]]></title>
+    <description lang="fr"><![CDATA[]]></description>
+    <keywords lang="fr"><![CDATA[]]></keywords>
+    <robots><![CDATA[noindex, follow]]></robots>
+  </action>
+  <action id="a_5575a87c97ae6">
+    <title lang="fr"><![CDATA[Bad request on the Server]]></title>
+    <description lang="fr"><![CDATA[]]></description>
+    <keywords lang="fr"><![CDATA[]]></keywords>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a87c97cba">
+    <title lang="fr"><![CDATA[Action not Authorized]]></title>
+    <description lang="fr"><![CDATA[]]></description>
+    <keywords lang="fr"><![CDATA[]]></keywords>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a87c97ee8">
+    <title lang="fr"><![CDATA[Forbidden Action]]></title>
+    <description lang="fr"><![CDATA[]]></description>
+    <keywords lang="fr"><![CDATA[]]></keywords>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a87c980b3">
+    <title lang="fr"><![CDATA[Server Error]]></title>
+    <description lang="fr"><![CDATA[]]></description>
+    <keywords lang="fr"><![CDATA[]]></keywords>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a87c98299">
+    <title lang="fr"><![CDATA[Temporary Redirect]]></title>
+    <description lang="fr"><![CDATA[]]></description>
+    <keywords lang="fr"><![CDATA[]]></keywords>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+  <action id="a_5575a87c9841c">
+    <title lang="fr"><![CDATA[Maintenance]]></title>
+    <description lang="fr"><![CDATA[]]></description>
+    <keywords lang="fr"><![CDATA[]]></keywords>
+    <robots><![CDATA[noindex, nofollow]]></robots>
+  </action>
+</sls_configs>

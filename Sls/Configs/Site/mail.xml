@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mails>
+  <host isSecure="true" js="false"><![CDATA[UTxdPwIkA3M=]]></host>
+  <port isSecure="true" js="false"><![CDATA[ADdbYw==]]></port>
+  <username isSecure="true" js="false"><![CDATA[USELdQY2UiRdal5sA2oHYw==]]></username>
+  <password isSecure="true" js="false"><![CDATA[UyYAbAYgB3BadFJuVyEFYA==]]></password>
+  <defaultDomain isSecure="false" js="false"><![CDATA[localhost:8888/projet-secret]]></defaultDomain>
+  <defaultReturn isSecure="false" js="false"><![CDATA[User3]]></defaultReturn>
+  <defaultNameReturn isSecure="false" js="false"><![CDATA[User3]]></defaultNameReturn>
+  <defaultReply isSecure="false" js="false"><![CDATA[User2]]></defaultReply>
+  <defaultNameReply isSecure="false" js="false"><![CDATA[User2]]></defaultNameReply>
+  <defaultSender isSecure="false" js="false"><![CDATA[User]]></defaultSender>
+  <defaultNameSender isSecure="false" js="false"><![CDATA[User]]></defaultNameSender>
+  <templates isSecure="false" js="false">
+    <item id="default" isSecure="false" js="false" default="true">
+      <header isSecure="false" js="false"><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="FFFFFF" color="000000">]]></header>
+      <footer isSecure="false" js="false"><![CDATA[</body></html>]]></footer>
+    </item>
+  </templates>
+</mails>

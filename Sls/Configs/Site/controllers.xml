@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<controllers>
+  <controller name="SLS_Init" side="sls" id="c_5575a82ed69e5">
+    <controllerLangs>
+      <controllerLang lang="en"><![CDATA[Initialization]]></controllerLang>
+    </controllerLangs>
+    <scontrollers>
+      <scontroller name="Index" needParam="0" id="a_5575a82ed73d9">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[SillySmart]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DirRights" needParam="0" id="a_5575a82ed848e">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Directories]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="Authentication" needParam="0" id="a_5575a82ed9293">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Authentication]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="GlobalSettings" needParam="0" id="a_5575a82ed9ef3">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Settings]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="International" needParam="0" id="a_5575a82edab58">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[International]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DataBase" needParam="0" id="a_5575a82edb958">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DataBase]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="MailSettings" needParam="0" id="a_5575a82edc491">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[MailSettings]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="Final" needParam="0" id="a_5575a82edcfcd">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Congratulations]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+    </scontrollers>
+  </controller>
+  <controller name="SLS_Bo" side="sls" tpl="sls_bo" id="c_5575a82eddbaa">
+    <controllerLangs>
+      <controllerLang lang="en"><![CDATA[Manage]]></controllerLang>
+    </controllerLangs>
+    <scontrollers>
+      <scontroller name="Index" needParam="0" default="1" id="a_5575a82ede4c5">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Authentication]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="Logout" needParam="0" id="a_5575a82edf28e">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Logout]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="Home" needParam="0" id="a_5575a82ee011d">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DashBoard]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="LogsMenu" needParam="0" id="a_5575a82ee10cb">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[LogsMenu]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="Logs" needParam="0" id="a_5575a82ee1e05">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Logs]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="LogsApp" needParam="1" id="a_5575a82ee2bbd">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[LogsApp]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="LogsM" needParam="0" id="a_5575a82ee3b6d">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[LogsM]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="LogsMonitoring" needParam="1" id="a_5575a82ee48ab">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[LogsMonitoring]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="LogsMail" needParam="0" id="a_5575a82ee559f">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[LogsMail]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="Langs" needParam="0" id="a_5575a82ee64dd">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Langs]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AddLang" needParam="0" id="a_5575a82ee72cc">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AddLang]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteLang" needParam="1" id="a_5575a82ee8255">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteLang]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DefaultLang" needParam="1" id="a_5575a82ee900d">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DefaultLang]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="Models" needParam="0" id="a_5575a82ee9e3b">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Models]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ModelsProperties" needParam="0" id="a_5575a82eeacde">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[ModelsProperties]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="Bo" needParam="0" id="a_5575a82eebdbd">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Bo]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="BoMenu" needParam="0" id="a_5575a82eecbf4">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[BoMenu]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="GenerateModels" needParam="0" id="a_5575a82eed8ff">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[GenerateModels]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="GenerateBo" needParam="0" id="a_5575a82eee6e0">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[GenerateBo]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ReportingBo" needParam="0" id="a_5575a82eefefa">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[ReportingBo]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ReportingBoAdd" needParam="0" id="a_5575a82ef0cdf">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[ReportingBoAdd]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ReportingBoView" needParam="0" id="a_5575a82ef1a3e">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[ReportingBoView]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ReportingBoEdit" needParam="0" id="a_5575a82ef289c">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[ReportingBoEdit]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ReportingBoDelete" needParam="0" id="a_5575a82ef365d">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[ReportingBoDelete]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ReportingBoStatus" needParam="0" id="a_5575a82f0049a">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[ReportingBoStatus]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ReportingBoGetFields" needParam="0" id="a_5575a82f0123d">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[ReportingBoGetFields]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ReportingBoGetFieldsFromMultipleTables" needParam="0" id="a_5575a82f0202f">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[ReportingBoGetFieldsFromMultipleTables]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="GenerateBoAction" needParam="0" id="a_5575a82f02e01">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[GenerateBoAction]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ManageRights" needParam="0" id="a_5575a82f03b6e">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Rights]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ManageRightsStatus" needParam="0" id="a_5575a82f04b65">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[RightsStatus]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AddRight" needParam="0" id="a_5575a82f0590f">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AddRight]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="EditRight" needParam="1" id="a_5575a82f067c7">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[EditRight]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteRight" needParam="1" id="a_5575a82f07621">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteRight]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteModel" needParam="1" id="a_5575a82f08598">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteModel]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="UpdateDescription" needParam="1" id="a_5575a82f09311">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[UpdateDescription]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="EditModel" needParam="1" id="a_5575a82f0a0e2">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[EditModel]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="EditBo" needParam="1" id="a_5575a82f0af13">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[EditBo]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AddBoCategory" needParam="1" id="a_5575a82f0bc68">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AddBoCategory]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteBoCategory" needParam="1" id="a_5575a82f0ccd9">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteBoCategory]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="EditBoAdd" needParam="1" id="a_5575a82f0da70">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[EditBoAdd]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="CustomizeBo" needParam="1" id="a_5575a82f0e974">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[CustomizeBo]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteBo" needParam="1" id="a_5575a82f0f906">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteBo]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AddBo" needParam="1" id="a_5575a82f1092b">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AddBo]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AddType" needParam="1" id="a_5575a82f116c0">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AddType]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="EditType" needParam="1" id="a_5575a82f12487">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[EditType]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteType" needParam="1" id="a_5575a82f13265">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteType]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AddForeignKey" needParam="1" id="a_5575a82f141be">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AddForeignKey]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="EditForeignKey" needParam="1" id="a_5575a82f153f6">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[EditForeignKey]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteForeignKey" needParam="1" id="a_5575a82f162ac">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteForeignKey]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AddFilter" needParam="1" id="a_5575a82f1726f">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AddFilter]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteFilter" needParam="1" id="a_5575a82f180a5">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteFilter]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="UpdateModel" needParam="1" id="a_5575a82f1900d">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[UpdateModel]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="Controllers" needParam="0" id="a_5575a82f19d5c">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Controllers]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="Templates" needParam="0" id="a_5575a82f1ab4c">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Templates]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AddTemplate" needParam="0" id="a_5575a82f1b941">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AddTemplate]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteTemplate" needParam="1" id="a_5575a82f1c7dd">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteTemplate]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AddGeneric" needParam="0" id="a_5575a82f1d933">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AddGeneric]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteGeneric" needParam="1" id="a_5575a82f1e726">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteGeneric]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AddController" needParam="0" id="a_5575a82f1f4d1">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AddController]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AddStaticController" needParam="0" id="a_5575a82f202ad">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AddStaticController]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AddComponentController" needParam="0" id="a_5575a82f21357">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AddComponentController]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="EditController" needParam="1" id="a_5575a82f2212c">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[EditController]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="EditStaticController" needParam="1" id="a_5575a82f22f53">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[EditStaticController]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="EditComponentController" needParam="1" id="a_5575a82f23d47">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[EditComponentController]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteController" needParam="1" id="a_5575a82f24cb6">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteController]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteStaticController" needParam="1" id="a_5575a82f25d7c">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteStaticController]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteComponentController" needParam="1" id="a_5575a82f26c59">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteComponentController]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AddAction" needParam="0" id="a_5575a82f27b01">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AddAction]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="EditAction" needParam="1" id="a_5575a82f289f4">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[EditAction]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteAction" needParam="1" id="a_5575a82f29a05">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteAction]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="FlushCache" needParam="1" id="a_5575a82f2a79b">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[FlushCache]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="Query" needParam="0" id="a_5575a82f2b695">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Query]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="Settings" needParam="0" id="a_5575a82f2c43a">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AllSettings]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="SlsSettings" needParam="0" id="a_5575a82f2d65b">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[SlsSettings]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ProdSettings" needParam="0" id="a_5575a82f2e55a">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[ProdSettings]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ProductionDeployment" needParam="0" id="a_5575a82f2f2f0">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[ProductionDeployment]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="Environments" needParam="0" id="a_5575a82f30095">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Environments]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="EnvironmentsAdd" needParam="0" id="a_5575a82f30e71">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[EnvironmentsAdd]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="EnvironmentsDelete" needParam="0" id="a_5575a82f31da3">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[EnvironmentsDelete]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="GlobalSettings" needParam="0" id="a_5575a82f32b40">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[GlobalSettings]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="GoogleSettings" needParam="0" id="a_5575a82f33ab0">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[GoogleAnalyticsSettings]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AddDomain" needParam="0" id="a_5575a82f3487a">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AddDomain]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteDomain" needParam="0" id="a_5575a82f355ec">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteDomain]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ProjectSettings" needParam="0" id="a_5575a82f36401">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[ProjectSettings]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="MailSettings" needParam="0" id="a_5575a82f37190">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[MailSettings]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="MailTemplates" needParam="0" id="a_5575a82f37f11">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[MailTemplates]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="MailTemplatesPreview" needParam="0" id="a_5575a82f38cf2">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[MailTemplatesPreview]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="MailTemplatesAdd" needParam="0" id="a_5575a82f39ba6">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[MailTemplatesAdd]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="MailTemplatesDelete" needParam="0" id="a_5575a82f3a8ea">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[MailTemplatesDelete]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DataBaseSettings" needParam="0" id="a_5575a82f3b752">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DataBaseSettings]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AddDataBase" needParam="0" id="a_5575a82f3c514">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AddDataBase]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteDataBase" needParam="1" id="a_5575a82f3d260">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteDataBase]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AddBearerTable" needParam="1" id="a_5575a82f3dff8">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[AddBearerTable]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeleteBearerTable" needParam="1" id="a_5575a82f3ee6b">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeleteBearerTable]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="JSSettings" needParam="0" id="a_5575a82f3fcc6">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[JavaScriptSettings]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="Compressor" needParam="0" id="a_5575a82f40bbe">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Compressor]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="GenerateSiteMap" needParam="0" id="a_5575a82f41b72">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[GenerateSiteMap]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="Plugins" needParam="0" id="a_5575a82f428ef">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Plugins]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="EditPlugin" needParam="1" id="a_5575a82f43684">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[EditPlugin]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="EditPluginField" needParam="1" id="a_5575a82f4442f">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[EditPluginField]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="SearchPlugin" needParam="1" id="a_5575a82f453e6">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[SearchPlugins]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="DeletePlugin" needParam="1" id="a_5575a82f4619d">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[DeletePlugin]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="CreatePlugin" needParam="1" id="a_5575a82f4701f">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[CreatePlugin]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="Updates" needParam="0" id="a_5575a82f47f31">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Updates]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="UpdateSLS" needParam="0" id="a_5575a82f48c79">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[UpdateSillySmart]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ResetSLS" needParam="0" id="a_5575a82f49a2d">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[ResetSillySmart]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+    </scontrollers>
+  </controller>
+  <controller name="SLS_Default" side="sls" id="c_5575a82f4a88b">
+    <controllerLangs>
+      <controllerLang lang="en"><![CDATA[SlsError]]></controllerLang>
+    </controllerLangs>
+    <scontrollers>
+      <scontroller name="UrlError" needParam="0" id="a_5575a82f4ae9f">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[NotFound]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AuthorizationError" needParam="0" id="a_5575a82f4ba28">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[NoAuthorization]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="BadRequestError" needParam="0" id="a_5575a82f4c643">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[BadRequest]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ForbiddenError" needParam="0" id="a_5575a82f4d2d2">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Forbidden]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="InternalServerError" needParam="0" id="a_5575a82f4df0d">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[ServerError]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="TemporaryRedirectError" needParam="0" id="a_5575a82f4ead4">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[TemporaryRedirect]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="MaintenanceError" needParam="0" id="a_5575a82f4f66e">
+        <scontrollerLangs>
+          <scontrollerLang lang="en"><![CDATA[Maintenance]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+    </scontrollers>
+  </controller>
+  <controller name="Home" side="user" id="c_5575a87c97735">
+    <controllerLangs>
+      <controllerLang lang="fr"><![CDATA[Home]]></controllerLang>
+    </controllerLangs>
+    <scontrollers>
+      <scontroller name="Index" needParam="0" id="a_5575a87c97833" default="1">
+        <scontrollerLangs>
+          <scontrollerLang lang="fr"><![CDATA[Index]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+    </scontrollers>
+  </controller>
+  <controller name="Default" side="user" id="c_5575a87c977d1">
+    <controllerLangs>
+      <controllerLang lang="fr"><![CDATA[Error]]></controllerLang>
+    </controllerLangs>
+    <scontrollers>
+      <scontroller name="UrlError" needParam="0" id="a_5575a87c9798b">
+        <scontrollerLangs>
+          <scontrollerLang lang="fr"><![CDATA[NotFound]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="BadRequestError" needParam="0" id="a_5575a87c97ae6">
+        <scontrollerLangs>
+          <scontrollerLang lang="fr"><![CDATA[BadRequest]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="AuthorizationError" needParam="0" id="a_5575a87c97cba">
+        <scontrollerLangs>
+          <scontrollerLang lang="fr"><![CDATA[NotAuthorized]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="ForbiddenError" needParam="0" id="a_5575a87c97ee8">
+        <scontrollerLangs>
+          <scontrollerLang lang="fr"><![CDATA[Forbidden]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="TemporaryRedirectError" needParam="0" id="a_5575a87c98299">
+        <scontrollerLangs>
+          <scontrollerLang lang="fr"><![CDATA[TemporaryRedirect]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="MaintenanceError" needParam="0" id="a_5575a87c9841c">
+        <scontrollerLangs>
+          <scontrollerLang lang="fr"><![CDATA[Maintenance]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+      <scontroller name="InternalServerError" needParam="0" id="a_5575a87c980b3">
+        <scontrollerLangs>
+          <scontrollerLang lang="fr"><![CDATA[ServerError]]></scontrollerLang>
+        </scontrollerLangs>
+      </scontroller>
+    </scontrollers>
+  </controller>
+</controllers>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+  <domainName isSecure="false" js="true">
+    <domain alias="__default" default="1" js="true" isSecure="false" lang="fr"><![CDATA[localhost:8888/projet-secret]]></domain>
+  </domainName>
+  <projectName isSecure="false" js="true"><![CDATA[Devboard]]></projectName>
+  <versionName isSecure="false" js="true"><![CDATA[20150608-dev]]></versionName>
+  <protocol isSecure="false" js="true"><![CDATA[http]]></protocol>
+  <metaDescription isSecure="false" js="false"><![CDATA[Dashboard for SP Developers]]></metaDescription>
+  <metaKeywords isSecure="false" js="false"><![CDATA[]]></metaKeywords>
+  <metaAuthor isSecure="false" js="false"><![CDATA[Julien]]></metaAuthor>
+  <metaCopyright isSecure="false" js="false"><![CDATA[localhost:8888/projet-secret]]></metaCopyright>
+  <defaultExtension isSecure="true" js="false"><![CDATA[sls]]></defaultExtension>
+  <defaultCharset isSecure="true" js="false"><![CDATA[UTF-8]]></defaultCharset>
+  <defaultDoctype isSecure="false" js="false"><![CDATA[xhtml_1.0_transitionnal]]></defaultDoctype>
+  <defaultLang isSecure="false" js="false"><![CDATA[fr]]></defaultLang>
+  <privateKey isSecure="true" js="false"><![CDATA[1b9e210be8fec980f63e8bfe7b63]]></privateKey>
+  <langs isSecure="false" js="false">
+    <name isSecure="false" js="false" active="true"><![CDATA[fr]]></name>
+  </langs>
+  <google isSecure="false" js="false">
+    <setting isSecure="false" js="true" name="ua"/>
+    <setting isSecure="true" js="false" name="apiKey"/>
+    <setting isSecure="true" js="false" name="clientId"/>
+    <setting isSecure="true" js="false" name="accountId"/>
+  </google>
+  <isProd isSecure="false" js="false"><![CDATA[0]]></isProd>
+  <domainSession isSecure="true" js="false"/>
+  <defaultTimezone isSecure="false" js="false"><![CDATA[Europe/Paris]]></defaultTimezone>
+  <activeCache isSecure="false" js="false"><![CDATA[0]]></activeCache>
+  <activeMaintenance isSecure="false" js="false"><![CDATA[0]]></activeMaintenance>
+  <activeMonitoring isSecure="false" js="false"><![CDATA[0]]></activeMonitoring>
+  <defaultLoadStaticsJavascript isSecure="false" js="false"><![CDATA[1]]></defaultLoadStaticsJavascript>
+  <defaultLoadDynsJavascript isSecure="false" js="false"><![CDATA[0]]></defaultLoadDynsJavascript>
+  <defaultBuildConfigsJsVars isSecure="false" js="false"><![CDATA[1]]></defaultBuildConfigsJsVars>
+  <defaultMultilanguageJavascript isSecure="false" js="false"><![CDATA[1]]></defaultMultilanguageJavascript>
+  <defaultLoadIE6Javascript isSecure="false" js="false"><![CDATA[1]]></defaultLoadIE6Javascript>
+</configs>

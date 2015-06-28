@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dbs>
+  <db alias="sp" isDefault="true" isSecure="true" js="false" charset="utf8">
+    <host><![CDATA[D2YAYlFnVTABNFVuVzwJe1El]]></host>
+    <base><![CDATA[B2YJYVR3A1gINVVnBHMJYA==]]></base>
+    <user><![CDATA[UyRaOFJoCHg=]]></user>
+    <pass><![CDATA[AnVfPVJoVSU=]]></pass>
+  </db>
+</dbs>
