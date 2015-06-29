@@ -5,7 +5,7 @@ module.exports = function(grunt)
 
 			paths    :   {
 				src : {
-					js : 'Src/scripts/app/desktop/',
+					js : 'Src/scripts/',
 					less : 'Src/styles/less/',
 					img : 'Src/styles/img/',
 					fonts : 'Src/styles/fonts/'
@@ -53,10 +53,14 @@ module.exports = function(grunt)
 				},
 				desktop : {
 					src : [
-						'<%= paths.src.js %>lib/*.js',
+						'<%= paths.src.js %>lib/jquery.min.js',
+						'<%= paths.src.js %>lib/inherit.min.js',
+						'<%= paths.src.js %>lib/prototypes.js',
+						'<%= paths.src.js %>lib/visible.min.js',
 
 						// App
-						'<%= paths.src.js %>app/**/*.js'
+						'<%= paths.src.js %>app/desktop/core.js',
+						'<%= paths.src.js %>app/desktop/index.js'
 					],
 					dest : '<%= paths.dest.js %><%= pkg.name %>-desktop.js'
 				}
@@ -73,10 +77,6 @@ module.exports = function(grunt)
 				css: {
 					files: ['<%= paths.src.less %>**/*.less'],
 					tasks: ['less-compile']
-				},
-				ejs: {
-					files: ['<%= paths.src.templates %>/*.ejs', '<%= paths.src.templates %>/**/*.ejs'],
-					tasks: ['ejs:all']
 				}
 			},
 			imagemin: {
@@ -154,4 +154,3 @@ module.exports = function(grunt)
 		grunt.registerTask('build', ['less:developmentDesktop', 'cssmin', 'uglify:all', 'zip', 'imagemin']);
 
 	}
-	
